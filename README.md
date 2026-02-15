@@ -14,7 +14,7 @@ A climate-driven disease outbreak early warning system that predicts malaria and
   A full-stack ML application with three trained models (Climate Forecaster, Disease Ensemble, NLP Outbreak Detector) combined into a weighted ensemble risk engine. The system features a live interactive dashboard that fetches real data from APIs on startup and produces risk scores, SHAP explainability charts, real NASA climate visualizations, NLP signal detection from real news headlines, and plain-language alerts for community health workers.
 
 * **If given longer, what would be the next improvement you would make?**
-  Upgrade the NLP model from TF-IDF to a fine-tuned BERT or LLM-based classifier for higher accuracy on multilingual headlines. Add more diseases (dengue, Zika) as WHO expands their API indicators. Implement scheduled auto-retraining so models update weekly as new data flows in. Add SMS-based alert delivery for health workers in low-bandwidth areas.
+  Add more diseases (dengue, Zika) as WHO expands their API indicators. Implement scheduled auto-retraining so models update weekly as new data flows in. Add SMS-based alert delivery for health workers in low-bandwidth areas.
 
 ## Set Up Instructions
 
